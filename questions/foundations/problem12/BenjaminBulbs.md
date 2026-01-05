@@ -1,0 +1,3 @@
+1. You are given `n` bulbs. They are all switched off. A weird fluctuation in voltage hits the circuit `n` times. In the first fluctuation all bulbs are toggled, in the second fluctuation every second bulb is toggled, in the third fluctuation every 3rd bulb is toggled and so on. You have to find which bulbs will be switched on after n fluctuations.
+2. Take as input a number `n`, representing the number of bulbs.
+3. Print all the bulbs that will be on after the nth fluctuation in voltage.
