@@ -2,9 +2,9 @@
 2. You have to create a pattern of * and separated by tab as shown in output format below.
 
 ```
-                *
-            *
-        *
-    *
-*
+*               *
+    *       *   
+        *       
+    *       *
+*               *
 ```
