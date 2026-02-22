@@ -1,10 +1,13 @@
-# DSA Practice
+# 📘 DSA Practice in Java
 
-This repository contains my **Data Structures and Algorithms (DSA)** solutions implemented in Java while following **Pepcoding YouTube tutorials**.  
-The purpose of this repo is to practice problem-solving, reinforce concepts, and build a reference of DSA solutions for myself and others.
+This repository contains my **Data Structures and Algorithms (DSA)** practice solutions implemented in **Java**, inspired by Pepcoding YouTube tutorials.
 
----
+## 📚 Topics Covered
+- Java Foundation Programs
+- Pattern Printing
+- Number Systems (Base conversions, addition, subtraction, multiplication)
 
-Topics covered:
+## 🎯 Goal
+To strengthen fundamentals, improve problem-solving skills, and maintain a structured reference for DSA learning.
 
-1. Java foundation programs.
+Happy Coding 🚀
