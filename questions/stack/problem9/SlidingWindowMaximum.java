@@ -21,9 +21,6 @@ public class SlidingWindowMaximum {
         // (uses next smaller element indexes), except that  here we need to find the index of next greater element
         // for all the array elements
         rb = findRightBoundaries(a);
-//        for(int i = 0; i < rb.length; ++i) {
-//            System.out.print(a[rb[i]]);
-//        }
 
         int j = 0;
         for(int i = 0; i <= a.length - k; i++) {
