@@ -6,7 +6,7 @@ This repository contains my **Data Structures and Algorithms (DSA)** practice so
 - Java Foundation Programs
 - Pattern Printing
 - Number Systems (Base conversions, addition, subtraction, multiplication)
-- Pattern problems
+- Arrays
 - Stacks
 
 ## 🎯 Goal
