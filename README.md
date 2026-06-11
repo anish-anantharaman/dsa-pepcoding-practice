@@ -8,6 +8,8 @@ This repository contains my **Data Structures and Algorithms (DSA)** practice so
 - Number Systems (Base conversions, addition, subtraction, multiplication)
 - Arrays
 - Stacks
+- Queues
+- LinkedList
 
 ## 🎯 Goal
 To strengthen fundamentals, improve problem-solving skills, and maintain a structured reference for DSA learning.
